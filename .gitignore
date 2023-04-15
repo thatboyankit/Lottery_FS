@@ -1,3 +1,9 @@
 node_modules
 package.json
 yarn.lock
+.env
+.prettierrc
+yarn-error.log
+artifacts
+cache
+README.md
